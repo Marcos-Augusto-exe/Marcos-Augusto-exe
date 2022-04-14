@@ -22,6 +22,7 @@ Sou apaixonado por tecnologia e atualmente estudo programação atravez do curso
 
 #### Ultimos projetos do curso ✌️ 
 
+- [Memory Games](https://marcos-exe.github.io/Memory-Games/)<br/>
 - [Jogo da velha](https://marcos-exe.github.io/Jogo-da-velha/)<br/>
 - [Music Player](https://marcos-exe.github.io/Music-Player/)<br/>
 - [J.R Pinturas e Acabamentos](https://marcos-exe.github.io/Site-JR-pinturas-e-Acabamentos)<br/>
