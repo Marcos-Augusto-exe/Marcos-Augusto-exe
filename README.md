@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Marcos Barbosa 😉
+## Olá! Eu sou o Marcos Augusto 😉
 Sou estudante de Desenvolvimento Web FullStack ✌️
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?border_radiusstyle=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco_snow_/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?border_radiusstyle=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gmarcos.augusto/) [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?border_radiusstyle=for-the-badge&logo=linkedin&logoColor=white=)](https://www.linkedin.com/in/marcos-exe//) [![Gmail](https://img.shields.io/badge/Gmail-D14836?border_radiusstyle=for-the-badge&logo=gmail&logoColor=white)](Gmarcos.augusto@gmail.com)
