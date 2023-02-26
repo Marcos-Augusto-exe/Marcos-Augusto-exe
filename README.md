@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia e atualmente estudo programação atravez do curso
 #### Ultimos projetos do curso ✌️ 
 
 - [Memory Games](https://marcos-augusto-exe.github.io/Memory-Games/)<br/>
-- [Jogo da velha](https://marcos-exe.github.io/Jogo-da-velha/)<br/>
-- [Music Player](https://marcos-exe.github.io/Music-Player/)<br/>
-- [J.R Pinturas e Acabamentos](https://marcos-exe.github.io/Site-JR-pinturas-e-Acabamentos)<br/>
-- [To-Do-List](https://marcos-exe.github.io/To-Do-List/)<br/>
+- [Jogo da velha](https://marcos-augusto-exe.github.io/Jogo-da-velha/)<br/>
+- [Music Player](https://marcos-augusto-exe.github.io/Music-Player/)<br/>
+- [J.R Pinturas e Acabamentos](https://marcos-augusto-exe.github.io/Site-JR-pinturas-e-Acabamentos/)<br/>
+- [To-Do-List](https://marcos-augusto-exe.github.io/To-Do-List/)<br/>
